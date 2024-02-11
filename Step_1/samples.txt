@@ -1,0 +1,17 @@
+MCF7_0h 	MCF7_0h_Rep1 	path/to/StrokeofGenus/MCF7/Data/SRR8413884_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413884_2.fastq.gz
+
+MCF7_0h 	MCF7_0h_Rep2 	path/to/StrokeofGenus/MCF7/Data/SRR8413885_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413885_2.fastq.gz
+
+MCF7_0h 	MCF7_0h_Rep3 	path/to/StrokeofGenus/MCF7/Data/SRR8413886_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413886_2.fastq.gz
+
+MCF7_1h 	MCF7_1h_Rep1 	path/to/StrokeofGenus/MCF7/Data/SRR8413887_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413887_2.fastq.gz
+
+MCF7_1h 	MCF7_1h_Rep2 	path/to/StrokeofGenus/MCF7/Data/SRR8413888_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413888_2.fastq.gz
+
+MCF7_1h 	MCF7_1h_Rep3 	path/to/StrokeofGenus/MCF7/Data/SRR8413889_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413889_2.fastq.gz
+
+MCF7_24h 	MCF7_24h_Rep1 	path/to/StrokeofGenus/MCF7/Data/SRR8413890_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413890_2.fastq.gz
+
+MCF7_24h 	MCF7_24h_Rep2 	path/to/StrokeofGenus/MCF7/Data/SRR8413891_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413891_2.fastq.gz
+
+MCF7_24h 	MCF7_24h_Rep3 	path/to/StrokeofGenus/MCF7/Data/SRR8413892_1.fastq.gz 	path/to/StrokeofGenus/MCF7/Data/SRR8413892_2.fastq.gz
